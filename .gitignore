@@ -101,6 +101,7 @@ typings/
 
 ### Project files ###
 
-tmp/*
+tmp/uploads/*
+!tmp/uploads/.gitkeep
 
 # End of https://www.gitignore.io/api/node,visualstudiocode
